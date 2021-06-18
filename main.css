@@ -1,0 +1,16 @@
+.mt-5 {
+    margin-top: 50px;
+}
+
+.mt-4 {
+    margin-top: 40px;
+}
+
+.mt-1 {
+    margin-top: 10px;
+}
+
+.alert {
+    margin: 5px;
+    display: none;
+}
